@@ -8,3 +8,4 @@ Upload awayy!!
     2. ACApp Java code (GUI based)
 3. Sidhwed:
     1. Queue.py
+    2. Stack.py
